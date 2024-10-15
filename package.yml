@@ -1,6 +1,6 @@
 package: ycom_board
 version: '3.0dev'
-author: Yakamara Media GmbH & Co. KG
+author: Friends Of REDAXO
 supportpage: www.redaxo.org/de/forum
 title: 'YCom Board'
 nav_icon: fa-plus
